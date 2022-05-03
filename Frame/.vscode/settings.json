@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "SDBaseFrame.C": "cpp",
+        "sdFrame.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
