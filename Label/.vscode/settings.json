@@ -1,8 +1,5 @@
 {
     "files.associations": {
-        "SDFrame.C": "cpp",
-        "SDBaseFrame.C": "cpp",
-        "buttonChangeLabel.C": "cpp",
         "labelTest.C": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled"
