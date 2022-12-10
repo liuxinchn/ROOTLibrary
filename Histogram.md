@@ -68,3 +68,13 @@ f->Draw("surf4");
 
 
 
+## TProfile
+
+![TProfile](./fig/TProfile.png)
+
+```
+TProfile *p1 = new TProfile("p1", "Title", 100, 0, 15, 0, 6);//分割100份
+p1->Fill(x, y);
+p1->Draw();
+```
+
